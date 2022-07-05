@@ -15,105 +15,142 @@
   ],
   "posts": [
     {
-      "id": "0",
+      "id": "NE60c16FPjRnD7JhHTxV8",
       "userId": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
-      "image": "./images/1.jpg",
-      "desc": "some image description",
-      "date": "2022-06-28T13:53:48.170Z",
+      "image": "https://firebasestorage.googleapis.com/v0/b/mim-97954.appspot.com/o/images%2F9XrBy6byullIx1xPj1y6n?alt=media&token=27d9ae70-de32-416a-9a0e-e8f3aa7c5d34",
+      "image_name": "9XrBy6byullIx1xPj1y6n",
+      "desc": "post image",
+      "date": "2022-07-05T18:29:38.526Z",
       "liked_by": [
-        "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
+        "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+        "ozOvSFjxl7SwIdhB33VGYIzBhTd2"
+      ],
+      "comments": [
+        {
+          "id": "ucD-ZvSDLgi-A72TKna7z",
+          "userId": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+          "comment": "Nice photo!",
+          "date": "2022-07-05T18:31:05.019Z"
+        },
+        {
+          "id": "luu4RyBtjyd5Qc6N1xPPw",
+          "userId": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
+          "comment": "Cool~",
+          "date": "2022-07-05T18:31:34.894Z"
+        },
+        {
+          "id": "iVaw0vLok4Pq9Fl1Ericd",
+          "userId": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
+          "comment": "Thank you!",
+          "date": "2022-07-05T18:33:56.947Z"
+        }
+      ]
+    },
+    {
+      "id": "8izizBi0oUo27TxjcSVdt",
+      "userId": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/mim-97954.appspot.com/o/images%2F3rN5aYo6n0KtLYxMKrcxe?alt=media&token=6659900e-f767-4e36-ac4b-97b8d3aea0e4",
+      "image_name": "3rN5aYo6n0KtLYxMKrcxe",
+      "desc": "post image",
+      "date": "2022-07-05T18:30:11.601Z",
+      "liked_by": [
         "67FHWuiCyATjN4sVbpl5b9uRXMW2",
         "g5ZVwx7s9peI5IoibwEjdalIYFy2"
       ],
       "comments": [
         {
-          "id": "0",
-          "userId": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
-          "comment": "It is beautiful!",
-          "date": null
-        },
-        {
-          "id": "1",
+          "id": "Putstqpu93gSn11v1tE8g",
           "userId": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
-          "comment": "Wonderful!",
-          "date": null
+          "comment": "Wow, amazing!",
+          "date": "2022-07-05T18:31:17.011Z"
         },
         {
-          "id": "Roe9s5w8YTRWt70UN3yzz",
+          "id": "40jbjWC7blnmaAVp__0Om",
+          "userId": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
+          "comment": "Thank you~",
+          "date": "2022-07-05T18:31:48.566Z"
+        },
+        {
+          "id": "scsWF8KM4x0UcDi8X6kM3",
           "userId": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
-          "comment": "What a beautiful new dress!",
-          "date": "2022-06-28T14:54:35.048Z"
+          "comment": "Very interesting!",
+          "date": "2022-07-05T18:33:48.331Z"
         }
       ]
     },
     {
-      "id": "1",
-      "userId": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
-      "image": "./images/2.jpg",
-      "desc": "some image description",
-      "date": "2022-06-28T13:53:48.170Z",
+      "id": "ON3AXXv-6TG-RqTnuMvUM",
+      "userId": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/mim-97954.appspot.com/o/images%2FEfudmS7rzcRHqYOJwrchH?alt=media&token=d45be21f-40de-4db8-afcd-0e85607412d1",
+      "image_name": "EfudmS7rzcRHqYOJwrchH",
+      "desc": "post image",
+      "date": "2022-07-05T18:30:28.703Z",
       "liked_by": [
-        "67FHWuiCyATjN4sVbpl5b9uRXMW2",
         "g5ZVwx7s9peI5IoibwEjdalIYFy2",
         "ozOvSFjxl7SwIdhB33VGYIzBhTd2"
       ],
       "comments": [
         {
-          "id": "2",
-          "userId": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
-          "comment": "So beautiful!",
-          "date": null
-        },
-        {
-          "id": "4",
-          "userId": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
-          "comment": "Super!",
-          "date": null
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "userId": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
-      "image": "./images/3.jpg",
-      "desc": "some image description",
-      "date": "2022-06-28T13:53:48.170Z",
-      "liked_by": [
-        "67FHWuiCyATjN4sVbpl5b9uRXMW2",
-        "ozOvSFjxl7SwIdhB33VGYIzBhTd2"
-      ],
-      "comments": [
-        {
-          "id": "c2",
-          "userId": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
-          "comment": "I really like it!",
-          "date": null
-        },
-        {
-          "id": "c0",
+          "id": "ROFI6KaliIgNS0KTNSL61",
           "userId": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
-          "comment": "Great picture!",
-          "date": null
+          "comment": "Nice photo!",
+          "date": "2022-07-05T18:32:13.894Z"
+        },
+        {
+          "id": "bMuTVSJUA2KqKWbcVdrpp",
+          "userId": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
+          "comment": "Is this near Sebilj?",
+          "date": "2022-07-05T18:32:42.297Z"
+        },
+        {
+          "id": "ezwykRMoaxfvollj2s7_K",
+          "userId": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+          "comment": "Yes!",
+          "date": "2022-07-05T18:33:01.114Z"
         }
       ]
     }
   ],
   "messages": [
     {
-      "id": "121244",
-      "sender_id": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+      "id": "V-o90tGfx3xw29qhaMimW",
+      "sender_id": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
       "receiver_id": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
-      "message": "sadsad",
-      "date": null,
+      "message": "Hey your clouds photo is amazing!",
+      "date": "2022-07-05T18:34:33.987Z",
+      "seen_status": false
+    },
+    {
+      "id": "Y7gnoEl6tab-ul4CAvJdZ",
+      "sender_id": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
+      "receiver_id": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+      "message": "Hey! Do you mind If I reuse your photo?",
+      "date": "2022-07-05T18:35:09.251Z",
       "seen_status": true
     },
     {
-      "id": "123214",
+      "id": "tsa0BJgK1o6oPMiYuysdZ",
       "sender_id": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
       "receiver_id": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
-      "message": "sadretb",
-      "date": null,
+      "message": "Hey!",
+      "date": "2022-07-05T18:35:56.448Z",
       "seen_status": true
+    },
+    {
+      "id": "Y-7gaLoziuBDrt0DvTMZs",
+      "sender_id": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+      "receiver_id": "ozOvSFjxl7SwIdhB33VGYIzBhTd2",
+      "message": "Hey, what's up?!",
+      "date": "2022-07-05T18:36:18.557Z",
+      "seen_status": false
+    },
+    {
+      "id": "WZ8Y9ibRyuWhrq1JFGn9n",
+      "sender_id": "67FHWuiCyATjN4sVbpl5b9uRXMW2",
+      "receiver_id": "g5ZVwx7s9peI5IoibwEjdalIYFy2",
+      "message": "No problem! Feel free~",
+      "date": "2022-07-05T18:36:37.032Z",
+      "seen_status": false
     }
   ]
 }
